@@ -1,7 +1,7 @@
 """
 Drought Condition Prediction Using Historical Climate Data
-Author: [Your Name]
-Department of Forestry, Fisheries and Environment - Portfolio Project
+Author:     Masego Kotlhai
+- Portfolio Project
 """
 
 import numpy as np
